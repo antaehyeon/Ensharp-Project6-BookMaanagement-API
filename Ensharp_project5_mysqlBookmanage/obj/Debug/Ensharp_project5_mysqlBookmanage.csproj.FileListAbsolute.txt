@@ -1,0 +1,49 @@
+c:\users\taehyeon an\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Taehyeon AN\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Taehyeon AN\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Taehyeon AN\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.csprojResolveAssemblyReference.cache
+C:\Users\Taehyeon AN\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Taehyeon AN\documents\visual studio 2015\Projects\Ensharp_project5_mysqlBookmanage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\MySql.Data.dll
+C:\Users\Taehyeon AN\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Ensharp-Project5-MysqlBookManage\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Ensharp-Project6-BookMaanagement-API\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Lee\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Lee\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\osm\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\osm\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\osm\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\Semin\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\Semin\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\Semin\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\민현\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\민현\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\민현\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
+C:\Users\이명호\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\bin\Debug\Ensharp_project5_mysqlBookmanage.exe.config
+C:\Users\이명호\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.exe
+C:\Users\이명호\Dropbox\16기\스터디\안태현\네이버 API를 이용한 도서관리\Ensharp_project5_mysqlBookmanage\obj\Debug\Ensharp_project5_mysqlBookmanage.pdb
